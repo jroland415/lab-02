@@ -1,5 +1,9 @@
 # Lab-02
 
+The purpose of this lab is to use Handlebars.js to display an image gallery with its associated content, and to include filter and sort features. The page should contain the ability to toggle between two image galleries. The page should be styled to enhance UX.
+
+##Collaboration Portion:
+
 Number and name of feature: #1 - Display Images
 
 Estimate of time needed to complete: 1 hour
